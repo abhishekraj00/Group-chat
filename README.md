@@ -1,8 +1,11 @@
-# Group-chat
+## Group-chat
 
-npm link mongoose 
-nmp start => to start the backend 
+1. Install the necessary dependencies:
+   - Run `npm i` to install package.
+   - Run `npm link mongoose` to link the mongoose package.
+   - Run `npm start` to start the backend.
 
-cd ./fromtend/
-npm start 
-fronmted
+2. Start the frontend:
+   - Change to the frontend directory: `cd ./frontend/`.
+   - Run `npm i` to install package.
+   - Run `npm start` to start the frontend.
