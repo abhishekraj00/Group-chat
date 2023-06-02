@@ -2,12 +2,7 @@
 
 ## Project Setup
 
-1. Install the necessary dependencies:
-   - Run `npm i` to install the required packages.
-   - Run `npm link mongoose` to link the mongoose package.
-   - Run `npm start` to start the backend.
-
-2. Set up environment variables:
+1. Set up environment variables:
    - Create a `.env` file in the root directory of the project.
    - Add the following environment variables to the `.env` file:
 
@@ -17,6 +12,13 @@
      JWT_SECRET=abhishek
      NODE_ENV=production
      ```
+
+2. Install the necessary dependencies:
+   - Run `npm i` to install the required packages.
+   - Run `npm link mongoose` to link the mongoose package.
+   - Run `npm start` to start the backend.
+
+
 
 3. Start the frontend:
    - Change to the frontend directory using the command `cd ./frontend/`.
